@@ -1,0 +1,5 @@
+outs:
+- md5: 09f9afb4d675598502868bf6150519b0
+  size: 344703
+  hash: md5
+  path: water_potability.csv
